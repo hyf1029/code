@@ -1,0 +1,74 @@
+﻿
+.ul-menu
+{
+    margin:0px;
+    list-style-type:none;
+}
+.ul-menu li
+{
+    margin:0px -10px 0px -50px;
+    padding: 8px 0px 8px 40px;
+    background-image:url(../Images/icon1.gif);
+    background-repeat: no-repeat;
+    background-position: 20px center;
+}
+input[type='text'], input[type='number'], input[type='datetime'], input[type="password"], input[type='checkbox'], textarea, select
+{
+    padding:4px;
+    border: 1px solid #95B8E7;
+    font-size:12px;
+}
+.button_out
+{
+    background: url('../Images/button.gif') repeat-x;
+    background-position: 0px -96px;
+    border: 1px solid #72a1bd;
+    color: #000000;
+    cursor: pointer;
+    line-height: 26px;
+    padding: 0px 11px 0px 11px;
+    height: 26px;
+}
+div.link a
+{
+    color:#ffffff;
+}
+#mm1 a
+{
+    text-decoration:none;
+    color:#000000;
+}
+.icon1{
+	background:url('../Images/icon1.gif') no-repeat center center;
+}
+.icon2{
+	background:url('../Images/icon2.gif') no-repeat center center;
+}
+.excel-in
+{
+    background:url('../Images/excel.bmp') no-repeat center center;
+}
+.icon_CloseAll
+{
+    background:url('../Images/icon_CloseAll.bmp') no-repeat center center;
+}
+.icon_Person
+{
+    background:url('../Images/man.png') no-repeat center center;
+}
+.icon_Person2
+{
+    background:url('../Images/icon_Person2.gif') no-repeat center center;
+}
+.icon_Edit
+{
+    background:url('../Images/icon_Edit.gif') no-repeat center center;
+}
+.icon_PersonEdit
+{
+    background:url('../Images/icon_PersonEdit.gif') no-repeat center center;
+}
+.icon_Delete
+{
+    background:url('../Images/icon_Delete.gif') no-repeat center center;
+}
